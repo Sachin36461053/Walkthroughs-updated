@@ -1,0 +1,7 @@
+http:
+  port: "8082"
+  
+sfdc:
+  username: "ssg@uow.com"
+  password: "Jerry@3646"
+  token: "32yQCaWvkKE6LdiJKxn50aJZ"
